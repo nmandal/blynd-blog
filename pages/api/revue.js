@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default async function handler(req, res) {
     // 1. Get the email from the payload and
     // validate if it is empty.
