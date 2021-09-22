@@ -12,9 +12,10 @@ const siteMetadata = {
   // email: 'contact@eatblynd.com',
   // github: 'https://github.com/nmandal',
   twitter: 'https://twitter.com/eatblynd_',
+  instagram: 'https://www.instagram.com/eatblynd',
   // facebook: 'https://facebook.com',
   // youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/company/eatblynd',
+  // linkedin: 'https://www.linkedin.com/company/eatblynd',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
