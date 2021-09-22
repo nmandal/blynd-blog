@@ -1,6 +1,6 @@
 ---
 name: Nick Mandal
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpeg
 occupation: Founder, Blynd
 company: Blynd, Inc.
 email: nick@eatblynd.com

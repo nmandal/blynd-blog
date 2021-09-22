@@ -10,8 +10,6 @@ Blynd takes the decision fatigue out of deciding what to order. Restaurants serv
 
 We will be launching soon. Request and upvote the restaurants you want to see on the platform [here](https://eatblynd.com). If the restaurant you request joins the platform, your first meal is on us!
 
-Blynd special NFT recipe. Chef can document process. Owner/admirer could make the meal
-
 Subscribe to our newsletter where we send restaurant reviews, recommendations, and curated menus, sent to your inbox weekly. 
 
 Latest drop: MenYou - build and share restaurant guides

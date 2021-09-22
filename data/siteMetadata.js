@@ -7,7 +7,7 @@ const siteMetadata = {
   siteUrl: 'https://eatblybnd.com',
   siteRepo: 'https://github.com/nmandal/eatblynd.com',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/twitter-card.png',
   // email: 'contact@eatblynd.com',
   // github: 'https://github.com/nmandal',
