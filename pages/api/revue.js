@@ -1,3 +1,4 @@
+
 export default async function handler(req, res) {
     const { email } = req.body;
     if (!email) {

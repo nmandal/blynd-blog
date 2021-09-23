@@ -40,13 +40,6 @@ Blynd also gives restaurants a unique way to engage with customers, creating a f
 
 # Business Model
 
-Below is an illustration of a sample Blynd transaction. For a $26 order, Blynd keeps $2.50 in revenue, a take rate of ~10%. The remaining ~23.50 is sent to the restaurant (an "effective" take rate of 90%).
-
-<figcaption>
-  <img src="/images/blynd-economics.png" alt="blynd economics" />
-  Economics of a Blynd Order
-</figcaption>
-
 Restaurants have been struggling even after the pandemic. They suffer from competition on price points among many competitors as well as increasing cost of talent, real estate and food & beverage products. Blynd adds another dimension to the equation.
 
 Blynd enables restaurants to sell inexpensive, delicious, and transportable dishes at high volume. When a restaurant is able to sell simple, easy to make, and identical food scale, they can do more revenue than on a busy Friday night. Alinea, a world-renown, Michelin-star restaurant did its best day of revenue ever during the pandemic, serving takeout meals at volume.
@@ -56,8 +49,3 @@ Blynd enables restaurants to sell inexpensive, delicious, and transportable dish
 The "Blind" concept is borrowed from my favorite breakfast spot in Madison called Short Stack Eatery. Short Stack does the entire experience right. From serving simple, fresh and local breakfast to supporting the local community as well as serving as a guide for other businesses to support and contribute to a food system centered around sustainability.
 
 I want to leverage technology to deliver a serendipitous and elevated dining experience like I've had at Short Stack, at scale.
-
-<figcaption>
-  <img src="/images/the-blind.png" alt="short stack blind special" />
-  Short Stack's Blind Special
-</figcaption>
