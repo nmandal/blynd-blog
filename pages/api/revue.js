@@ -10,6 +10,7 @@ export default async function handler(req, res) {
     const response = await fetch(revueRoute, {
       body: JSON.stringify({
         email,
+        double_opt_in: false,
       }),
       headers: {
         Authorization: `Token ${API_KEY}`,
